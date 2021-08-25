@@ -1,1 +1,2 @@
 Hello! welcome git hub.Next video will be commit related.
+Adding Merges.
